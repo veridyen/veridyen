@@ -8,8 +8,8 @@ Veridyen team consists of experienced workers at Internet Service Providing sect
 #### Highlights about Veridyen
 
 - Affordable prices & Highest performance
-- 7-day money back quarantee
-- %99.98 uptime quarantee
+- 7-day money back guarantee
+- %99.98 uptime guarantee
 - 7/24 technical support (with support ticket and mail)
 - 7/9 phone support (for billing, sales and technical information)
 
