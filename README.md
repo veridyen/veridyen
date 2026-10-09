@@ -37,9 +37,6 @@
 | **Security & mail** | [SSL Certificates](https://www.veridyen.com/ssl) · [Mail Hosting](https://www.veridyen.com/mail-hosting) |
 | **Migration** | [Free hosting transfer](https://www.veridyen.com/hosting-transfer) |
 
-## Technology partners
-
-[cPanel](https://cpanel.net) · [Plesk](https://www.plesk.com) · [DirectAdmin](https://www.directadmin.com) · [LiteSpeed](https://www.litespeedtech.com) · [Cloudflare](https://www.cloudflare.com) · [Fortinet](https://www.fortinet.com) · [WHMCS](https://www.whmcs.com) · [MARS DC](https://www.mars.com.tr)
 
 ## Contact
 
