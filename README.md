@@ -1,5 +1,9 @@
-![Veridyen](https://www.veridyen.com/templates/veridyen/assets/brand/veridyen-logo-original.svg#gh-light-mode-only)
-![Veridyen](https://www.veridyen.com/templates/veridyen/assets/brand/veridyen-logo-white.svg#gh-dark-mode-only)
+<a href="https://www.veridyen.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.veridyen.com/templates/veridyen/assets/brand/veridyen-logo-white.svg">
+    <img src="https://www.veridyen.com/templates/veridyen/assets/brand/veridyen-logo-original.svg" alt="Veridyen" width="260">
+  </picture>
+</a>
 
 **Hosting, cloud and domain services for web-based projects. Built in İzmir since 2016.**
 
@@ -22,18 +26,20 @@
 
 ## Services
 
+| | |
+|---|---|
+| **Hosting** | [Web Hosting](https://www.veridyen.com/hosting) · [Windows Hosting](https://www.veridyen.com/hosting/windows-hosting) · [Corporate Hosting](https://www.veridyen.com/hosting/kurumsal-hosting) · [Premium Hosting](https://www.veridyen.com/hosting/premium-hosting) |
+| **WordPress** | [WordPress Hosting](https://www.veridyen.com/hosting/wordpress-hosting) · [AI WordPress Hosting](https://www.veridyen.com/yz/wordpress-hosting) |
+| **Reseller** | [cPanel Reseller Hosting](https://www.veridyen.com/hosting/cpanel-bayi-hosting) |
+| **Developer hosting** | [Laravel](https://www.veridyen.com/laravel-hosting) · [Python](https://www.veridyen.com/python-hosting) · [Node.js](https://www.veridyen.com/nodejs-hosting) |
+| **Servers** | [Cloud Server](https://www.veridyen.com/sunucu/bulut-sunucu) · [Pro Cloud Server](https://www.veridyen.com/sunucu/pro-bulut-sunucu) |
+| **Domain** | [Domain Search](https://www.veridyen.com/domain) · [Transfer](https://www.veridyen.com/domain/transfer) · [Prices](https://www.veridyen.com/domain/fiyatlar) |
+| **Security & mail** | [SSL Certificates](https://www.veridyen.com/ssl) · [Mail Hosting](https://www.veridyen.com/mail-hosting) |
+| **Migration** | [Free hosting transfer](https://www.veridyen.com/hosting-transfer) |
 
-|                         |                                                                                                                                                                                                                                                                      |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hosting**             | [Web Hosting](https://www.veridyen.com/hosting) · [Windows Hosting](https://www.veridyen.com/hosting/windows-hosting) · [Corporate Hosting](https://www.veridyen.com/hosting/kurumsal-hosting) · [Premium Hosting](https://www.veridyen.com/hosting/premium-hosting) |
-| **WordPress**           | [WordPress Hosting](https://www.veridyen.com/hosting/wordpress-hosting) · [AI WordPress Hosting](https://www.veridyen.com/yz/wordpress-hosting)                                                                                                                      |
-| **Reseller**            | [cPanel Reseller Hosting](https://www.veridyen.com/hosting/cpanel-bayi-hosting)                                                                                                                                                                                      |
-| **Developer hosting**   | [Laravel](https://www.veridyen.com/laravel-hosting) · [Python](https://www.veridyen.com/python-hosting) · [Node.js](https://www.veridyen.com/nodejs-hosting)                                                                                                         |
-| **Servers**             | [Cloud Server](https://www.veridyen.com/sunucu/bulut-sunucu) · [Pro Cloud Server](https://www.veridyen.com/sunucu/pro-bulut-sunucu)                                                                                                                                  |
-| **Domain**              | [Domain Search](https://www.veridyen.com/domain) · [Transfer](https://www.veridyen.com/domain/transfer) · [Prices](https://www.veridyen.com/domain/fiyatlar)                                                                                                         |
-| **Security &amp; mail** | [SSL Certificates](https://www.veridyen.com/ssl) · [Mail Hosting](https://www.veridyen.com/mail-hosting)                                                                                                                                                             |
-| **Migration**           | [Free hosting transfer](https://www.veridyen.com/hosting-transfer)                                                                                                                                                                                                   |
+## Technology partners
 
+[cPanel](https://cpanel.net) · [Plesk](https://www.plesk.com) · [DirectAdmin](https://www.directadmin.com) · [LiteSpeed](https://www.litespeedtech.com) · [Cloudflare](https://www.cloudflare.com) · [Fortinet](https://www.fortinet.com) · [WHMCS](https://www.whmcs.com) · [MARS DC](https://www.mars.com.tr)
 
 ## Contact
 
